@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const API_URL = "https://your-backend.onrender.com";
+  const API_URL = "https://soulkeyz.onrender.com";
 
   fetch(`${API_URL}/api/products`)
   .then(res => res.json())
