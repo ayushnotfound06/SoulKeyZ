@@ -30,7 +30,7 @@ body {
     width: 80%;
 }
 .logo{
-    background-image: url("Assets/withbg_logo.jpg");
+    background-image: url("/Assets/withbg_logo.jpg");
     background-size: cover;
     height: 50px;
     width: 200px;
@@ -59,7 +59,7 @@ body {
 }
 
 .banner{
-    background-image: url("Assets/Banner1.jpg");
+    background-image: url("/Assets/Banner1.jpg");
     height: 100%;
     width: 900px;
     background-size: cover;
@@ -78,7 +78,7 @@ body {
 }
 
 .banner-bar{
-    background-image: url("Assets/Banner-Bar.jpg");
+    background-image: url("/Assets/Banner-Bar.jpg");
     height: 100%;
     width: 900px;
     background-size: cover;
